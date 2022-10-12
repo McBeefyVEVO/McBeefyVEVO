@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, i´m Ondřej</h1>
+<h1 align="center">Hello 👋, I'm Ondřej</h1>
 <h3 align="center">I make stuff in JavaScript and Java</h3>
 
 - 🔭 I’m currently working on **Stuff**
