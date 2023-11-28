@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Stuff**
 
-- 🌱 I’m currently learning **Typesript**
+- 🌱 I’m currently learning **Type script**
 
 - 📫 How to reach me **ondrastepo@gmail.com**
 
