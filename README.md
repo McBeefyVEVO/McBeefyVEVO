@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Ondřej</h1>
-<h3 align="center">I make stuff in JavaScript and Java</h3>
+<h3 align="center">I make stuff</h3>
 
 - 🔭 I’m currently working on **Stuff**
 
-- 🌱 I’m currently learning **Java/JavaScript**
+- 🌱 I’m currently learning **Typesript**
 
 - 📫 How to reach me **ondrastepo@gmail.com**
 
