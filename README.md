@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ondřej</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcbeefyvevo&label=Profile%20views&color=0e75b6&style=flat" alt="mcbeefyvevo" /> </p>
-
-<p align="left"> <a href="https://twitter.com/beefythemeat" target="blank"><img src="https://img.shields.io/twitter/follow/beefythemeat?logo=twitter&style=for-the-badge" alt="beefythemeat" /></a> </p>
 
 - 🔭 I’m currently working on **things**
 
