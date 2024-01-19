@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/beefythemeat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beefythemeat" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/ondřej štěpánek](https://www.linkedin.com/in/ond%C5%99ej-%C5%A1t%C4%9Bp%C3%A1nek-877627294/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ondřej štěpánek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ondřej-štěpánek-877627294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ondřej štěpánek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
