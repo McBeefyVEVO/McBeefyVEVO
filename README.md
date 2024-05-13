@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **things**
 
-- 🌱 I’m currently learning **UE5, Node and Typescript**
+- 🌱 I’m currently learning **React, node and TS**
 
 - 📫 How to reach me **ondrastepo@gmail.com**
 
